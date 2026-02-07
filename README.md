@@ -7,7 +7,7 @@ CodeRipple is the brainchild of a team of passionate developers who came togethe
  Fullstack
 
 ## Deployed App
- Frontend: <a href="https://script-sankalan-2345.vercel.app/"  target="_blank" > CodeRipple App </a>
+ Frontend: <a href="https://oj-drab.vercel.app"  target="_blank" > CodeRipple App </a>
 <br/>
 Backend:  <a href="https://coderipple-backend.onrender.com"  target="_blank" > CodeRipple Sever </a> 
 <br/>
@@ -42,7 +42,7 @@ Detailed instructions on how to install, configure, and get the project running.
 
 Application
 ```bash
-git clone https://github.com/Deepak9657568826/Script-Sankalan-2345
+git clone https://github.com/Akash4317/OJ
 cd Frontend
 npm i
 npm run dev
@@ -50,7 +50,7 @@ npm run dev
 
 Run Server Locally
 ```bash
-git clone https://github.com/Deepak9657568826/Script-Sankalan-2345
+git clone https://github.com/Akash4317/OJ
 cd Backend
 npm i
 npm run server
